@@ -30,7 +30,7 @@ fit <- fetch_alt(fit)
 ```
 
 ### Making a noise reduction plot
-![alt tag](../blob/master/fig1.png?raw=true)
+![alt tag](../master/fig1.png?raw=true)
 
 ```R
 load('/home/martin/Documents/epiG-scripts/fit_test-sample_GNAS.RData')
