@@ -33,7 +33,7 @@ fit <- fetch_alt(fit)
 ![alt tag](../master/fig1.png?raw=true)
 
 ```R
-load('/home/martin/Documents/epiG-scripts/fit_test-sample_GNAS.RData')
+load('fit_test-sample_GNAS.RData')
 nreads.threshold <- 150
 ```
 
