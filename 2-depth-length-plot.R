@@ -24,7 +24,7 @@ p1 <- ggplot(cinfo) +
   scale_color_brewer(type = "qua", palette = 2) +
   theme(legend.position="none")
 
-### Make png file
-png('depth-length-plot.png', units = "cm", width = 12, height = 8, res = 800)
+### Save plot as png file
+png('depth-length-plot.png', units = "cm", width = 12, height = 8, res = 600)
   print(p1)
 dev.off()
