@@ -25,6 +25,4 @@ p1 <- ggplot(cinfo) +
   theme(legend.position="none")
 
 ### Save plot as png file
-png('depth-length-plot.png', units = "cm", width = 12, height = 8, res = 600)
-  print(p1)
-dev.off()
+ggsave("depth-length-plot.png", units = "cm", width = 7, height = 3, dpi = 600, scale = 2)

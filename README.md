@@ -9,7 +9,7 @@
 
 [Script: 2-methylation-profiling.R](2-methylation-profiling.R)
 
-![haplotype-chains-plot](methylation-profile.png)
+![methylation-profile-plot](methylation-profile.png)
 
 ## Inferred Haplotype Chains
 
@@ -21,6 +21,8 @@
 ## Clustered Reads
 
 [Script: 4-clustered-reads.R](4-clustered-reads)
+
+![clustered-reads-plot](clustered-reads.png)
 
 ## Depth Fraction & Length of Haplotype Chains
 
