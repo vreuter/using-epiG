@@ -3,22 +3,27 @@
 ## Running epiG
 [Script: 1-fit.R](1-fit.R)
 
-## Depth fraction and length of haplotype chains
+![running-epiG](running-epiG.png)
 
-[Script: 2-depth-length-plot.R](2-depth-length-plot.R)
+## Methylation & Epi-allelic Profiling
 
-![depth-length-plot](depth-length-plot.png)
+[Script: 2-methylation-profiling.R](2-methylation-profiling.R)
 
-## Inferred haplotype chains
+![haplotype-chains-plot](methylation-profile.png)
+
+## Inferred Haplotype Chains
 
 [Script: 3-haplotype-chains.R](3-haplotype-chains.R)
 
 ![haplotype-chains-plot](haplotype-chains-plot.png)
 
-## Epi-allelic profiling
 
-TODO
+## Clustered Reads
 
-## Example of haplotype chains
+[Script: 4-clustered-reads.R](4-clustered-reads)
 
-TODO
+## Depth Fraction & Length of Haplotype Chains
+
+[Script: 5-depth-length-plot.R](5-depth-length-plot.R)
+
+![depth-length-plot](depth-length-plot.png)
